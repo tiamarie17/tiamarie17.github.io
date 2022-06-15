@@ -1,1 +1,78 @@
 
+body {
+  background-image: url("https://envato-shoebox-0.imgix.net/7e21/3f8c-e865-4096-b5ad-0fac0fe02ef7/179833578.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=1200&s=2377620430348bae33c3e73f53f400c0");
+  background-color: #E6E6FA;
+  color: black; 
+  font-family: Avenir, Raleway, Arial;
+  margin; 20%, 30%;
+}
+
+aside {
+  width: 32%;
+  max-width: fit-content;
+  min-width: fit-content;
+  float: right;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  margin: 10px;
+  background-color: #DCDCDC;
+}
+
+.header {
+  border-bottom: 1px solid black;
+
+  line-height: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.address {
+  display: block;
+  line-height: 5px;
+}
+
+.intro {
+  font-style: italic;
+}
+
+.exp-header {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-style: dashed;
+  line-height: 10px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.spps {
+  line-height: 5px;
+}
+
+.hopkins {
+  line-height: 5px;
+}
+
+.spain {
+  line-height: 5px;
+}
+
+.umn {
+  line-height: 5px;
+}
+
+.umn2{
+  line-height: 5px;
+}
+
+.language {
+  line-height: 5px;
+}
+
+
+
+
+
+
