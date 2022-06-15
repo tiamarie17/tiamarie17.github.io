@@ -22,7 +22,6 @@ aside {
 
 .header {
   border-bottom: 1px solid black;
-
   line-height: 5px;
   text-align: center;
   font-weight: bold;
@@ -30,11 +29,13 @@ aside {
 
 .address {
   display: block;
-  line-height: 5px;
+  line-height: 15px;
 }
 
 .intro {
   font-style: italic;
+  font-size: 17px;
+  font-weight: normal;
 }
 
 .exp-header {
@@ -47,11 +48,17 @@ aside {
   font-size: 20px;
 }
 
-.spps {
+
+.list {
+  font-size: 17px;
+  font-weight: light;
+}
+
+.umn {
   line-height: 5px;
 }
 
-.hopkins {
+.umn2 {
   line-height: 5px;
 }
 
@@ -59,17 +66,18 @@ aside {
   line-height: 5px;
 }
 
-.umn {
-  line-height: 5px;
-}
-
-.umn2{
-  line-height: 5px;
-}
-
 .language {
   line-height: 5px;
 }
+.hopkins {
+  line-height: 5px;
+}
+
+.spps {
+  line-height: 5px;
+}
+
+
 
 
 
