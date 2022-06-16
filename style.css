@@ -1,10 +1,44 @@
 
 body {
+
+  margin-left: 50px;
+  margin-right: 50px;
   background-image: url("https://envato-shoebox-0.imgix.net/7e21/3f8c-e865-4096-b5ad-0fac0fe02ef7/179833578.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=1200&s=2377620430348bae33c3e73f53f400c0");
   background-color: #E6E6FA;
   color: black; 
   font-family: Avenir, Raleway, Arial;
-  margin; 20%, 30%;
+  word-wrap: normal;
+  font-size: 18px;
+ }
+
+img {
+  border-radius: 8px;
+}
+ 
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: #DCDCDC; 
+  color: black; 
+  border: 1px solid white;
+  border-radius: 8px;
+}
+
+.button1:hover {
+  background-color: #FFEFD5;
+  color: white;
 }
 
 aside {
@@ -16,66 +50,98 @@ aside {
   padding-right: 10px;
   padding-left: 10px;
   padding-bottom: 10px;
-  margin: 10px;
+  border-radius: 8px;
   background-color: #DCDCDC;
+  border: 1px solid white;
 }
 
+
 .header {
+  margin-left: 50px;
+  margin-right: 50px;
   border-bottom: 1px solid black;
   line-height: 5px;
   text-align: center;
   font-weight: bold;
+  display: flex;
 }
 
 .address {
   display: block;
   line-height: 15px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .intro {
   font-style: italic;
   font-size: 17px;
   font-weight: normal;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .exp-header {
-  border-top: 1px solid black;
-  border-bottom: 1px solid black;
-  border-style: dashed;
+  
   line-height: 10px;
   text-align: center;
   font-weight: bold;
   font-size: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 25px;
+  border: 2px solid black;
 }
 
 
+
+
 .list {
-  font-size: 17px;
+  font-size: 18px;
   font-weight: light;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .umn {
   line-height: 5px;
+  font-size: 18px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .umn2 {
   line-height: 5px;
+  font-size: 18px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .spain {
   line-height: 5px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .language {
   line-height: 5px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 .hopkins {
   line-height: 5px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .spps {
   line-height: 5px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
+
+
+
 
 
 
