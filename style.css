@@ -1,12 +1,11 @@
 
 body {
-
   margin-left: 50px;
   margin-right: 50px;
   background-image: url("https://envato-shoebox-0.imgix.net/7e21/3f8c-e865-4096-b5ad-0fac0fe02ef7/179833578.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=1200&s=2377620430348bae33c3e73f53f400c0");
   background-color: #E6E6FA;
   color: black; 
-  font-family: Avenir, Raleway, Arial;
+  font-family: Avenir, Arial, sans-serif;
   word-wrap: normal;
   font-size: 18px;
  }
@@ -16,12 +15,8 @@ img {
 }
  
 .button {
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
   padding: 5px;
   text-align: center;
-  text-decoration: none;
   display: inline-block;
   font-size: 13px;
   margin: 4px 2px;
@@ -57,11 +52,12 @@ aside {
 
 
 .header {
+  text-align: center;
+  justify-content: center;
   margin-left: 50px;
   margin-right: 50px;
   border-bottom: 1px solid black;
-  line-height: 5px;
-  text-align: center;
+  line-height: 15px;
   font-weight: bold;
   display: flex;
 }
@@ -82,8 +78,7 @@ aside {
 }
 
 .exp-header {
-  
-  line-height: 10px;
+  line-height: 15px;
   text-align: center;
   font-weight: bold;
   font-size: 20px;
@@ -93,52 +88,55 @@ aside {
   border: 2px solid black;
 }
 
-
-
-
 .list {
   font-size: 18px;
-  font-weight: light;
+  font-weight: lighter;
   margin-left: 50px;
   margin-right: 50px;
 }
 
 .umn {
-  line-height: 5px;
+  line-height: 15px;
   font-size: 18px;
   margin-left: 50px;
   margin-right: 50px;
 }
 
 .umn2 {
-  line-height: 5px;
+  line-height: 15px;
   font-size: 18px;
   margin-left: 50px;
   margin-right: 50px;
 }
 
 .spain {
-  line-height: 5px;
+  line-height: 15px;
   margin-left: 50px;
   margin-right: 50px;
 }
 
 .language {
-  line-height: 5px;
+  line-height: 15px;
   margin-left: 50px;
   margin-right: 50px;
 }
 .hopkins {
-  line-height: 5px;
+  line-height: 15px;
   margin-left: 50px;
   margin-right: 50px;
 }
 
 .spps {
-  line-height: 5px;
+  line-height: 15px;
   margin-left: 50px;
   margin-right: 50px;
 }
+
+.rotate {
+  transform: rotate(360deg);
+  transition: transform 0.9s ease-in;
+  transform-origin: 50% 50%;
+ }
 
 
 
