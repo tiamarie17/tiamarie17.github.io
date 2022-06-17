@@ -132,7 +132,7 @@ aside {
   margin-right: 50px;
 }
 
-.rotate {
+.rotate hover{
   transform: rotate(360deg);
   transition: transform 0.9s ease-in;
   transform-origin: 50% 50%;
